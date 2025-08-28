@@ -16,6 +16,7 @@ The goal is to identify audience trends and optimize content strategy.
 ---
 ## 📊 Dashboard Preview
 ![Social Media Dashboard](https://github.com/YashaswiniBaglakadi/Social-media-analysis-excel/blob/940bac1cf0c056ebe25535d2c3cf16a3e949421e/Images/dashboard.png)
+This dashboard provides an overview of social media analytics across Facebook, Instagram, LinkedIn, and Twitter, summarizing audience gender, country, and occupation distributions. Key metrics include a total reach of 3,651, detailed engagement figures, and breakdowns by post type and content category. Trends from 2020 to 2023 highlight consistent growth in engagement, reach, and impressions. Interactive filters support data exploration for targeted insights and performance optimization
 
 ---
 ## 🛠 Tools Used
